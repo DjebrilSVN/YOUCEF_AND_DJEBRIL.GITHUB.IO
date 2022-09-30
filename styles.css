@@ -1,0 +1,15 @@
+h1,h2 {
+font-weight: bold;
+font-family:Arial, Helvetica, sans-serif;
+color:grey;
+}
+li {
+font-family:'Arial narrow', Arial, sans-serif;
+font-size: xx-large;   
+}
+blockquote {
+color:grey;    
+}
+ul {
+list-style-image:url("ICON.gif") ;    
+}
